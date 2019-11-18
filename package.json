@@ -1,0 +1,11 @@
+{
+  "name": "qa-noter",
+  "version": "1.0.0",
+  "description": "Install this on your qa servers so QA can leave in app notes for the dev team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Ruffolo",
+  "license": "ISC"
+}
