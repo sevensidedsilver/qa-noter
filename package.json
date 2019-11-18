@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Ruffolo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-menu-window": "^1.2.0"
+  }
 }
